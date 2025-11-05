@@ -5,17 +5,17 @@
 - `corepack enable` to use npm/yarn/pnpm reliably
 
 ## Getting Started
-\ ```bash
+```bash
 npm install
 npm run dev
 # open the shown URL (e.g., http://localhost:5173)
-\ ```
+```
 
 ## Build
 
-\ ```bash
+```bash
 npm run build
-\ ```
+```
 
 ## Deploy (GitHub Pages via Actions)
 - Ensure `base: '/profiles-app/'` in `vite.config.js`
